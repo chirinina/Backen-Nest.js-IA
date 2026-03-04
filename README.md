@@ -20,40 +20,42 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+Aquí tienes todo el contenido completamente en español:
 
-## Description
+````md
+## Descripción
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Repositorio inicial del framework Nest basado en TypeScript.
 
-## Project setup
+## Configuración del proyecto
 
 ```bash
 $ npm install
-```
+````
 
-## Compile and run the project
+## Compilar y ejecutar el proyecto
 
 ```bash
-# development
+# modo desarrollo
 $ npm run start
 
-# watch mode
+# modo observación (watch)
 $ npm run start:dev
 
-# production mode
+# modo producción
 $ npm run start:prod
 ```
 
-## Run tests
+## Ejecutar pruebas
 
 ```bash
-# unit tests
+# pruebas unitarias
 $ npm run test
 
-# e2e tests
+# pruebas e2e (extremo a extremo)
 $ npm run test:e2e
 
-# test coverage
+# cobertura de pruebas
 $ npm run test:cov
 ```
 
